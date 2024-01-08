@@ -48,5 +48,3 @@
 - Created with React.
 - Functional components with React Hooks for state management.
 - Basic CSS styling.
-
-Feel free to contribute or provide feedback! 🚀
