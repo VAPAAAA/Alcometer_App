@@ -7,7 +7,7 @@
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/VAPAAAA/alcometer.git
+    git clone https://github.com/VAPAAAA/alcometer_app.git
     cd alcometer_app
     ```
 
