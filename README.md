@@ -7,8 +7,8 @@
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/alcometer.git
-    cd alcometer
+    git clone https://github.com/VAPAAAA/alcometer.git
+    cd alcometer_app
     ```
 
 2. **Install dependencies:**
