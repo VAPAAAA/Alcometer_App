@@ -1,9 +1,7 @@
 Alcometer
-Alcometer is a React app that helps estimate your blood alcohol level based on inputs for weight, gender, number of drinks, and time spent drinking.
+Alcometer is a React app that estimates your blood alcohol level based on inputs for weight, gender, number of drinks, and time spent drinking.
 
 Usage
-To use the app, follow these steps:
-
 Clone the repository:
 
 bash
@@ -12,12 +10,11 @@ git clone https://github.com/your-username/alcometer.git
 cd alcometer
 Install dependencies:
 
-bash
 Copy code
 npm install
 Start the app:
 
-bash
+sql
 Copy code
 npm start
 Open in your browser:
